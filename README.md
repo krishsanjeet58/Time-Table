@@ -1,8 +1,8 @@
 # Time-Table
-Time table of school
 
-### Time Table view
+
+### Time Table preview
 
 <br/>
 
- <img src="./img/" alt="">
+ <img src="img/Capture.PNG" alt="">
